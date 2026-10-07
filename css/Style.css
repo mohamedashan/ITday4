@@ -9,3 +9,13 @@
     text-wrap: inherit;
     color: darkturquoise;
 }
+#title {
+    text-align: center;
+    font-size: 60px;
+    text-wrap: inherit;
+    color: darkturquoise;
+}
+* {
+    font-family: "Isometra", serif;
+}
+
