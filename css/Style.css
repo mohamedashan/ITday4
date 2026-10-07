@@ -1,9 +1,9 @@
-h1 {
+.man {
     color: rgb(61, 4, 4);
     text-align: center;
     background-color: beige;
 }
-p {
+.hero {
     text-align: center;
     font-size: 60px;
     text-wrap: inherit;
